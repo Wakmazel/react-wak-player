@@ -1,0 +1,20 @@
+{
+  "name": "react-wak-player",
+  "version": "1.0.0",
+  "description": "React-wak-player is a powerful tool for integrating advanced video viewing features into React web applications, offering great flexibility, optimized performance and easy customization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hubert Misonia",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^4.9.5"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@types/react": "^18.0.28"
+  }
+}
